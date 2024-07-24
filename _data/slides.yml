@@ -1,0 +1,18 @@
+# - image: 'images/slides/slide1.jpg'
+# - image: 'images/slides/slide1.webp'
+# - image: 'images/slides/tongji3.jpg'
+# - image: 'images/slides/tongji4.jpg'
+# - image: 'https://s21.ax1x.com/2024/07/12/pk4Kexg.jpg' # 'images/slides/slide1.jpg'
+# - image: 'https://s21.ax1x.com/2024/07/12/pk4KZRS.jpg' # 'images/slides/tongji3.jpg'
+# - image: 'https://s21.ax1x.com/2024/07/12/pk4KVG8.jpg' # 'images/slides/tongji4.jpg'
+# - image: 'images/slides/slide2.jpg'
+# - image: 'images/slides/hall.jpg'
+# - image: 'https://s21.ax1x.com/2024/07/13/pk4RExf.webp'
+
+# - image: 'images/slides/slide1.webp'
+# - image: 'images/slides/tongji3.webp'
+# - image: 'images/slides/tongji4.webp'
+# - image: 'https://s21.ax1x.com/2024/07/12/pk4KZRS.jpg' # 'images/slides/tongji3.jpg'
+- image: 'https://s21.ax1x.com/2024/07/12/pk4KVG8.jpg' # 'images/slides/tongji4.jpg'
+
+

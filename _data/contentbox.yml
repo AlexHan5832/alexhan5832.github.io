@@ -1,0 +1,26 @@
+# - image: '/images/tongji-photo1.jpg'
+# - image: 'https://s21.ax1x.com/2024/07/12/pk4K6zD.jpg'
+- image: 'https://s21.ax1x.com/2024/07/17/pkoi5a8.webp'
+  title: 'Welcome to the MIAS Group'
+  content: '
+  <h3>
+  We are part of the 
+  <a href="https://rail.tongji.edu.cn/">Robotics & Artificial Intelligence Lab (RAIL)
+  </a>
+  at 
+  <a href="https://en.tongji.edu.cn/">Tongji University
+  </a>.
+
+  <h3>
+  We are dedicated to exploring, developing, and applying cutting-edge computer vision & deep learning techniques to break the bottleneck in autonomous driving, urban digital twin, and clinical diagnosis.
+  </h3>
+  <hr>
+  <h3>
+  依托单位:
+  <br>
+  <br>
+  同济大学电子与信息工程学院，上海自主智能无人系统科学中心
+  <br>
+  自主智能无人系统全国重点实验室，教育部自主智能无人系统前沿科学中心
+  </h3>
+'

@@ -1,1 +1,66 @@
-<h1>aaaaa</h1>
+---
+group: home
+---
+<!DOCTYPE HTML>
+<html>
+	<style>
+		.wrapper.style3 {
+			background-color: #000;
+			color: #bfbfbf;
+			background-image: url(https://ice.frostsky.com/2024/07/23/0e25a497d0176173d0b1d7c157ff731d.jpeg);
+			background-size: cover;
+			background-attachment: relative;
+			background-position: center;
+			position: relative;
+		}
+
+		html{
+			height: 100%; /* 确保整个页面占据整个浏览器视窗的高度 */
+			margin: 0; /* 清除默认的边距 */
+			overflow-y: scroll; /* 垂直滚动条始终可见 */
+		}
+
+	</style>
+	<head>
+		<title>MIAS Group @ TongjiU</title>
+		<meta name="description" content="MIAS Group">
+		<meta name="keywords" content="">
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css" />
+		{% include favicon.html %}
+<!-- 		<meta name="viewport" "> -->
+		<meta name="viewport" content="width=1100px">
+
+
+	</head>
+
+	<body class="subpage" id="boxx">
+	{% include header-default.html %}
+	<section id="One" class="wrapper style3">
+		<div class="inner">
+			<header class="align-center">
+				<h2>MIAS Group</h2>
+				<p></p>
+				<h2>Machine Intelligence and Autonomous Systems</h2>
+			</header>
+		</div>
+	</section>
+			
+	<div>
+		<!-- Boxes under Multi-Image Slider -->
+		{% include content_box.html %}
+	
+		
+		
+		<!-- Footer -->
+		{% include footer.html %}
+	</div>	
+		
+	
+		
+
+	</body>
+
+
+</html>
+

@@ -1,0 +1,34 @@
+<footer id="footer">
+    <div class="copyright">
+        MIAS Group at Tongji University<br>
+        <br>
+        <img src="https://ice.frostsky.com/2024/07/23/5fb139641e2e9882a92b9a87c297b126.png" height="80" align="center" loading="lazy"/>
+    </div>
+</footer>
+
+<!-- Scripts -->
+<script src="{{site.baseurl}}/assets/js/jquery.min.js"></script>
+<script src="{{site.baseurl}}/assets/js/jquery.scrollex.min.js"></script>
+<script src="{{site.baseurl}}/assets/js/skel.min.js"></script>
+<script src="{{site.baseurl}}/assets/js/util.js"></script>
+<!-- <script src="{{site.baseurl}}/assets/js/main.js"></script> -->
+<script>
+                    let navLinks = document.querySelector('.navNarrow');
+                    let narrowLinks = document.querySelector('.narrowLinks');
+
+                    navLinks.addEventListener('click', toggle);
+
+                    function toggle() {
+                        narrowLinks.classList.toggle('hidden');
+                    };
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121627139-1"></script> -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-121627139-1');
+</script>

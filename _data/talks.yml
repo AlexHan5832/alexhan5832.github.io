@@ -1,0 +1,31 @@
+# - name: Fisher YU 
+#   image: /images/talks/fisher.jpg
+#   position: Assistant Professor, ETH Zurich
+#   date: 12/16, 2022
+#   topic: New Opportunities in Dynamic 3D Scene Understanding
+#   bio: Fisher Yu is an Assistant Professor at ETH Zürich in Switzerland. He obtained his Ph.D. degree from Princeton University and became a postdoctoral researcher at UC Berkeley. He is now leading the Visual Intelligence and Systems (VIS) group at ETH Zürich. His goal is to build perceptual systems capable of performing complex tasks in complex environments. His research is at the junction of machine learning, computer vision and robotics. He currently works on closing the loop between vision and action. His works on image representation learning and large-scale datasets, especially dilated convolutions and the BDD100K dataset, have become essential parts of computer vision research. More info is available at https://www.yf.io.
+#   abstract: Understanding semantics and motion in dynamic 3D scenes is foundational for real-world perceptual applications such as robotics and video editing. The recent availability of large-scale driving video datasets creates new research possibilities in this broad area. In this talk, I will illustrate the trend through the lens of object tracking, the essential building block for dynamic scene understanding. I will start with our recent findings in multiple object tracking (MOT), after briefly reviewing the current works and trends on the topic. Then, I will introduce our new tracking method based on Quasi-Dense Similarity Learning. Our method is conceptually more straightforward yet more effective than the previous works. It boasts almost ten percent of accuracy on the large-scale BDD100K and Waymo MOT datasets. I will also talk about how to use the 2D tracking method for monocular 3D object tracking and video instance segmentation. Our quasi-dense 3D tracking pipeline achieves impressive improvements on the nuScenes 3D tracking benchmark and we are still making fast progress. On the video segmentation side, we find that our algorithms can even beat the manual labeling accuracy.
+
+
+  # email: 
+  # scholar: https://scholar.google.com/citations?user=P5AJTXcAAAAJ&hl=en
+  # orcid: "give a number"
+  # description: 
+  
+
+
+- name: Wenshuo Wang 
+  image: /images/talks/wenshuo.jpg
+  position: Postdoc, McGill University
+  date: 11/21, 2022
+  topic: Uncover Human-Driving Behavioral Interaction Patterns Toward Socially Autonomous Mobility
+  bio:  Wenshuo Wang received his Ph.D. degree in Mechanical Engineering, Beijing Institute of Technology (BIT), China in 2018. He was a Postdoc Associate at UC Berkeley and Carnegie Mellon University from 2018-2020 and a visiting graduate student at UC Berkeley and the University of Michigan from 2015-2018. He is now working as a Postdoc at McGill University. He received the George N. Saridis Best Transactions Paper Award (2022), Global Young Rising Star Scholar in ‘AI+X’ (2022), IVADO Postdoc Fellowship Award (2020), SAE-China Best Ph.D. Dissertation Award (2018), and Early Career Ph.D. Fellowship (2017). Now he serves as an Associate Editor for the Journal of Field Robotics, IEEE Transactions on Intelligent Vehicles, and IEEE Transactions on Vehicular Technology. Dr. Wang’s research goal is to develop theoretical frameworks and practical algorithms to understand human interactions by employing Bayesian learning and optimization with the support of computational cognitive sciences toward Socially Interactive Autonomous Mobility, a truly safe and trustworthy system that places the human at the center of a superior driving experience. 
+  abstract:  No human drives a car in a vacuum; she/he must negotiate with other road users to achieve their goals in social traffic scenes. Nowadays, autonomous vehicles face significant challenges in making safe and efficient decisions when interacting with other human road users (human drivers, pedestrians, and cyclists). AVs should behave socially such that their behaviors and actions are safe and predictable even without explicit communication. In this talk, I will first define social interaction in road traffic specified in a computationally practical way by leveraging dynamics, measurement, and optimization. Then, I will introduce a primitive-based concept to semantically understand the dynamic behavioral interactions among multiple traffic agents using nonparametric Bayesian learning, which helps insight into the behavioral interaction patterns and design associated practical algorithms for socially autonomous vehicles. Finally, I will show some related applications of driving primitives in behavior similarity quantification, scenario generation, decision-making, and policy learning.
+
+  # email: 
+  # scholar: https://scholar.google.com/citations?user=P5AJTXcAAAAJ&hl=en
+  # orcid: "give a number"
+  # description: 
+  
+  
+
