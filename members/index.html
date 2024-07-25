@@ -8,29 +8,31 @@ bgimage: https://ice.frostsky.com/2024/07/23/0e25a497d0176173d0b1d7c157ff731d.jp
 
 <h1>11111</h1>
 {% for row in site.data.members %}
-<h2>{{row.position}}</h2>
-    {% for person in row.persons %}
-    
-    <div class="row">
-        <div class="3u 12u$(small)">
-            <span class="image fit"><img src="{{person.image}}" alt=""></span>
-            <br>
-            <strong><span class="memberName">{{person.name}}</span></strong><br>
-            <span class="memberDetail">{{person.position}}</span><br>
-            <em><span class="memberDetail">{{person.email}}</span></em><br>
-
-            {% if person.scholar %}
-              <a href="https://scholar.google.com/"><img class="inline-block" src="/images/google-scholar.png"></a>
-              <a id="links" href= "http://scholar.google.com/citations?user={{person.scholar}}"><span class="memberDetail">Google Scholar</span></a> <br>
-            {% endif %}
-        </div>
-    
-        <div style="text-align: justify" class="9u$ 12u$(small)">
-            {{person.description | markdownify}}
-        </div>
-    
+    <div>
+        <h2>{{row.position}}</h2>
+        {% for person in row.persons %}
+        
+            <div class="row">
+                <div class="3u 12u$(small)">
+                    <span class="image fit"><img src="{{person.image}}" alt=""></span>
+                    <br>
+                    <strong><span class="memberName">{{person.name}}</span></strong><br>
+                    <span class="memberDetail">{{person.position}}</span><br>
+                    <em><span class="memberDetail">{{person.email}}</span></em><br>
+        
+                    {% if person.scholar %}
+                      <a href="https://scholar.google.com/"><img class="inline-block" src="/images/google-scholar.png"></a>
+                      <a id="links" href= "http://scholar.google.com/citations?user={{person.scholar}}"><span class="memberDetail">Google Scholar</span></a> <br>
+                    {% endif %}
+                </div>
+            
+                <div style="text-align: justify" class="9u$ 12u$(small)">
+                    {{person.description | markdownify}}
+                </div>
+            
+            </div>
+            <hr>
+        {% endfor %}
     </div>
-    <hr>
-    {% endfor %}
-    <h2>333</h2>
+
 {% endfor %}
