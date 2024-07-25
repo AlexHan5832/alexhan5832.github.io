@@ -1,116 +1,93 @@
-- position: Principal Investigator
-  persons: 
-    - name: Rui (Ranger) FAN | 范睿
-      image: /images/members/rfan.jpg
-      position: Principal Investigator
-      email: rui.fan@ieee.org
-      scholar: https://scholar.google.com/citations?user=P5AJTXcAAAAJ&hl=en
-      # orcid: "give a number"
-      description: '
-      [Rui (Ranger) FAN](https://www.ruirangerfan.com) [<a href="https://see.tongji.edu.cn/info/1376/10427.htm">范睿</a>] was born in Inner Mongolia, China in 02/1993. 
-    Rui received his B.Eng. degree from the Harbin Institute of Technology in 07/2015 and his Ph.D. degree (thesis title: "Real-Time Computer Stereo Vision for Automotive Applications", under the supervision of Prof. John G. Rarity and Prof. Naim Dahnoun) from the University of Bristol in 06/2018. 
-    Rui worked as a Research Associate, supervised by Prof. Ming Liu, at the Hong Kong University of Science and Technology from 07/2018 to 02/2020. He then worked as a Postdoctoral Scholar-Employee, supervised by Prof. Linda M. Zangwill and Prof. David J. Kriegman, at the University of California San Diego from 02/2020 to 09/2021.
-    Rui began his faculty career as a Full Research Professor with the College of Electronics & Information Engineering at Tongji University in 10/2021, and was then promoted to a Full Professor in the same college, as well as at the Shanghai Research Institute for Intelligent Autonomous Systems (SRIAS), the State Key Laboratory of Intelligent Autonomous Systems, and Frontiers Science Center for Intelligent Autonomous Systems in 12/2022. Rui directs the Machine Intelligence and Autonomous Systems (MIAS) Group. Rui was named in Stanford University List of
-    Top 2% Scientists Worldwide in 2022. Rui is the General Chair of the Autonomous Vehicle Vision (<a href="https://avvision.xyz/">AVVision</a>) Community. Rui’s research interests include computer vision, deep learning, and robotics.' 
+position: Principal Investigator
+persons: 
+  - name: Rui (Ranger) FAN | 范睿
+    image: /images/members/rfan.jpg
+    position: Principal Investigator
+    email: rui.fan@ieee.org
+    scholar: https://scholar.google.com/citations?user=P5AJTXcAAAAJ&hl=en
+    # orcid: "give a number"
+    description: '
+    [Rui (Ranger) FAN](https://www.ruirangerfan.com) [<a href="https://see.tongji.edu.cn/info/1376/10427.htm">范睿</a>] was born in Inner Mongolia, China in 02/1993. 
+  Rui received his B.Eng. degree from the Harbin Institute of Technology in 07/2015 and his Ph.D. degree (thesis title: "Real-Time Computer Stereo Vision for Automotive Applications", under the supervision of Prof. John G. Rarity and Prof. Naim Dahnoun) from the University of Bristol in 06/2018. 
+  Rui worked as a Research Associate, supervised by Prof. Ming Liu, at the Hong Kong University of Science and Technology from 07/2018 to 02/2020. He then worked as a Postdoctoral Scholar-Employee, supervised by Prof. Linda M. Zangwill and Prof. David J. Kriegman, at the University of California San Diego from 02/2020 to 09/2021.
+  Rui began his faculty career as a Full Research Professor with the College of Electronics & Information Engineering at Tongji University in 10/2021, and was then promoted to a Full Professor in the same college, as well as at the Shanghai Research Institute for Intelligent Autonomous Systems (SRIAS), the State Key Laboratory of Intelligent Autonomous Systems, and Frontiers Science Center for Intelligent Autonomous Systems in 12/2022. Rui directs the Machine Intelligence and Autonomous Systems (MIAS) Group. Rui was named in Stanford University List of
+  Top 2% Scientists Worldwide in 2022. Rui is the General Chair of the Autonomous Vehicle Vision (<a href="https://avvision.xyz/">AVVision</a>) Community. Rui’s research interests include computer vision, deep learning, and robotics.' 
 
 
-- position: Ph.D. student
-  persons: 
-    - name: Sicen GUO | 郭思岑
-      image: /images/members/scguo.jpg
-      position: Ph.D. student
-      email: guosicen@tongji.edu.cn
-      scholar: 
-      # twitter: needs an account
-      # orcid: needs a number
-      description: '
-    Sicen GUO received the B.Sc. degree in automation from Tongji University in 2022. She is currently pursuing her Ph.D. degree, supervised by Prof. Rui Fan, with the Machine Intelligence and Autonomous Systems (MIAS) Group in the Robotics and Artificial Intelligence Laboratory (RAIL) at Tongji University. She won 2 championships in the VEX Robotics competitions: the Silk Road Robot Innovation Competition and the Asian Youth Robotics Competition. She also won the national first prize and the Zigbee Innovation Award of the HUAWEI CUP National Undergraduate IoT design contest. She participated in the 2020 Undergraduate Electronic design contest and was honored with the national second prize. Sicen is a program committee of the Autonomous Vehicle Vision (AVVision) community. Her research interests include stereo matching and semantic segmentation.
-    '
-    
-    - name: Yikang ZHANG | 张屹康
-      image: /images/members/ykzhang.jpg
-      position: Ph.D. student
-      email: yikangzhang@tongji.edu.cn
-      scholar: 
-      # twitter: needs an account
-      # orcid: needs a number
-      description: '
-    Yikang ZHANG obtained his B.Sc. degree in Automotion from the Beijing Institute of Technology in 2017, followed by an M.S. degree in ECE from UMASS Amherst in 2019, where he specialized in Model Predictive Control and Physical Unclonable Functions. He has since gained extensive industry experience, working with companies such as Tusimple, where he focused on truck state machine and controller, UnityDrive, where he contributed to Path Planner and chassis control, and CASIA, where he worked on Trajectory Prediction Algorithms. Currently, Yikang is pursuing his Ph.D. degree, supervised by Prof. Rui Fan. His research interests include Simulation, Planning, and Control in complex environment.
-    '
-    
-    - name: Chuangwei LIU | 刘创伟
-      image: /images/members/cwliu.jpg
-      position: Ph.D. student
-      email: cwliu@tongji.edu.cn
-      scholar: 
-      description: '
-    Chuangwei LIU received the B.E. degree in automation from Tongji University in 2022 and completed the “Introduction to Machine Learning” course at the Israel Institute of Technology (Technion) in 2019. He is currently pushing his Ph.D. degree, supervised by Prof. Rui Fan, with the Machine Intelligence and Autonomous Systems (MIAS) Group in the Robotics and Artificial Intelligence Laboratory (RAIL) at Tongji University. He received a second-class scholarship from Tongji University in 2017, a first-class scholarship from Tongji University in 2018, the national third prize of the HUAWEI CUP National Graduate Mathematical Modeling Contest in 2020, and an academic scholarship for outstanding students of Tongji University in 2022. His research interests include computer stereo vision, especially for unsupervised approaches.
-    '
+position: Ph.D. student
+persons: 
+  - name: Sicen GUO | 郭思岑
+    image: /images/members/scguo.jpg
+    position: Ph.D. student
+    email: guosicen@tongji.edu.cn
+    scholar: 
+    # twitter: needs an account
+    # orcid: needs a number
+    description: '
+  Sicen GUO received the B.Sc. degree in automation from Tongji University in 2022. She is currently pursuing her Ph.D. degree, supervised by Prof. Rui Fan, with the Machine Intelligence and Autonomous Systems (MIAS) Group in the Robotics and Artificial Intelligence Laboratory (RAIL) at Tongji University. She won 2 championships in the VEX Robotics competitions: the Silk Road Robot Innovation Competition and the Asian Youth Robotics Competition. She also won the national first prize and the Zigbee Innovation Award of the HUAWEI CUP National Undergraduate IoT design contest. She participated in the 2020 Undergraduate Electronic design contest and was honored with the national second prize. Sicen is a program committee of the Autonomous Vehicle Vision (AVVision) community. Her research interests include stereo matching and semantic segmentation.
+  '
   
-    - name: Nachuan MA | 马纳川
-      image: /images/members/ncma.jpg
-      position: Ph.D. student
-      email: manachuan@163.com
-      scholar: 
-      # twitter: needs an account
-      # orcid: needs a number
-      description: 'Nachuan MA received the B.E. degree in electrical engineering and automation from the China University of Mining and Technology in 2019 and the M.Sc. degree in electronic engineering from the Chinese University of Hong Kong in 2020. Between 2019 and 2020, he worked as a research assistant with the department of electronic and electrical engineering at the Southern University of Science and Technology. He is currently pursuing his Ph.D. degree (under the supervision of Prof. Lihua Xie and Prof. Rui Fan) in the department of control science and engineering at Tongji University. As an undergraduate, he was awarded the University Scholarship for three consecutive years. As a graduate, he was awarded Special Scholarship for M.Sc. In Electronic Engineering. He has achieved two national and three provincial competitions awards (all acted as team leaders). He has published four conference papers (ICRA, ROBIO, CASE) and five journal papers (T-ASE, T-CDS, TSE, etc.). He served as the Session Co-chair and Session Host of IEEE ICRA 2021, Program Committee Members of the 2nd and 3rd AVVision Workshops (in conjunction with ICCV 2021 and ECCV 2022, respectively), and AAAI 2023. He was a reviewer of ICRA 2021, IROS 2022, ICRA 2023, etc. His research interests include computer vision and deep learning in autonomous driving and robotics.
-    '
+  - name: Yikang ZHANG | 张屹康
+    image: /images/members/ykzhang.jpg
+    position: Ph.D. student
+    email: yikangzhang@tongji.edu.cn
+    scholar: 
+    # twitter: needs an account
+    # orcid: needs a number
+    description: '
+  Yikang ZHANG obtained his B.Sc. degree in Automotion from the Beijing Institute of Technology in 2017, followed by an M.S. degree in ECE from UMASS Amherst in 2019, where he specialized in Model Predictive Control and Physical Unclonable Functions. He has since gained extensive industry experience, working with companies such as Tusimple, where he focused on truck state machine and controller, UnityDrive, where he contributed to Path Planner and chassis control, and CASIA, where he worked on Trajectory Prediction Algorithms. Currently, Yikang is pursuing his Ph.D. degree, supervised by Prof. Rui Fan. His research interests include Simulation, Planning, and Control in complex environment.
+  '
+  
+  - name: Chuangwei LIU | 刘创伟
+    image: /images/members/cwliu.jpg
+    position: Ph.D. student
+    email: cwliu@tongji.edu.cn
+    scholar: 
+    description: '
+  Chuangwei LIU received the B.E. degree in automation from Tongji University in 2022 and completed the “Introduction to Machine Learning” course at the Israel Institute of Technology (Technion) in 2019. He is currently pushing his Ph.D. degree, supervised by Prof. Rui Fan, with the Machine Intelligence and Autonomous Systems (MIAS) Group in the Robotics and Artificial Intelligence Laboratory (RAIL) at Tongji University. He received a second-class scholarship from Tongji University in 2017, a first-class scholarship from Tongji University in 2018, the national third prize of the HUAWEI CUP National Graduate Mathematical Modeling Contest in 2020, and an academic scholarship for outstanding students of Tongji University in 2022. His research interests include computer stereo vision, especially for unsupervised approaches.
+  '
+
+  - name: Nachuan MA | 马纳川
+    image: /images/members/ncma.jpg
+    position: Ph.D. student
+    email: manachuan@163.com
+    scholar: 
+    # twitter: needs an account
+    # orcid: needs a number
+    description: 'Nachuan MA received the B.E. degree in electrical engineering and automation from the China University of Mining and Technology in 2019 and the M.Sc. degree in electronic engineering from the Chinese University of Hong Kong in 2020. Between 2019 and 2020, he worked as a research assistant with the department of electronic and electrical engineering at the Southern University of Science and Technology. He is currently pursuing his Ph.D. degree (under the supervision of Prof. Lihua Xie and Prof. Rui Fan) in the department of control science and engineering at Tongji University. As an undergraduate, he was awarded the University Scholarship for three consecutive years. As a graduate, he was awarded Special Scholarship for M.Sc. In Electronic Engineering. He has achieved two national and three provincial competitions awards (all acted as team leaders). He has published four conference papers (ICRA, ROBIO, CASE) and five journal papers (T-ASE, T-CDS, TSE, etc.). He served as the Session Co-chair and Session Host of IEEE ICRA 2021, Program Committee Members of the 2nd and 3rd AVVision Workshops (in conjunction with ICCV 2021 and ECCV 2022, respectively), and AAAI 2023. He was a reviewer of ICRA 2021, IROS 2022, ICRA 2023, etc. His research interests include computer vision and deep learning in autonomous driving and robotics.
+  '
+  
+  - name: Jiahe FAN | 樊嘉禾
+    image: /images/members/jhfan.jpg
+    position: Ph.D. student
+    email: jiahe_fan@tongji.edu.cn
+    scholar: 
+    description: '
+  Jiahe FAN obtained his B.E. degree in information engineering from Jilin University in 2019 and his M.S. degree in information and communication engineering from the Beijing Institute of Technology in 2022. Currently, he is a Ph.D. candidate under the supervision of Prof. Shaolong Shu and Prof. Rui Fan. 
+  His research focus lies in the area of semantic segmentation and unsupervised domain adaptation, which has led to the publication of several research papers.
+  His research focus lies in the area of semantic segmentation and unsupervised domain adaptation, which has led to the publication of several research papers.
+  He won the Best Student Paper Award at the 2021 IEEE IST conference. 
+  '
     
-    - name: Jiahe FAN | 樊嘉禾
-      image: /images/members/jhfan.jpg
-      position: Ph.D. student
-      email: jiahe_fan@tongji.edu.cn
-      scholar: 
-      description: '
-    Jiahe FAN obtained his B.E. degree in information engineering from Jilin University in 2019 and his M.S. degree in information and communication engineering from the Beijing Institute of Technology in 2022. Currently, he is a Ph.D. candidate under the supervision of Prof. Shaolong Shu and Prof. Rui Fan. 
-    His research focus lies in the area of semantic segmentation and unsupervised domain adaptation, which has led to the publication of several research papers.
-    His research focus lies in the area of semantic segmentation and unsupervised domain adaptation, which has led to the publication of several research papers.
-    He won the Best Student Paper Award at the 2021 IEEE IST conference. 
-    '
-
-    # - name: Shuai SU | 苏帅
-    #   image: /images/members/ssu.jpg
-    #   position: Ph.D. student
-    #   email: sushuai@tongji.edu.cn
-    #   # scholar: 
-    #   # twitter: needs an account
-    #   # orcid: needs a number
-    #   description: '
-    # Shuai SU received the B.Sc. degree in Electronic & Information Engineering from Zhengzhou University in 2020. He is currently pursuing the Ph.D. degree (supervised by Prof. Qijun Chen and Prof. Rui Fan) with the Machine Intelligence and Autonomous Systems (MIAS) Group in the Robotics and Artificial Intelligence Laboratory (RAIL) at Tongji University. He won 4 championships in the RoboCup@home China Tournament in 2019, 2020, and 2021 as well as the RoboCup@home Tianjin International Invitational Tournament in 2019. He interned in the multi-sensor joint calibration team of the NIO Autonomous Driving Algorithm Department (led by Shaoqing Ren). As a core member, he participated in the research and development of a fast and accurate multi-sensor extrinsic calibration algorithm (having been deployed in hundreds of NIO 4S stores). His research interests include visual correspondence matching and equivariant representation learning.
-    # '
-
-    # - name: Jingwei YANG | 杨静葳
-    #   image: /images/members/jwyang.jpg
-    #   position: Ph.D. student
-    #   email: jw_yang@tongji.edu.cn
-    #   # scholar: 
-    #   # twitter: needs an account
-    #   # orcid: needs a number
-    #   description: '
-    # Jingwei YANG received the B.Sc. degree in automation from Nanjing University of Science and Technology in 2020. She is currently pursuing the Ph.D. degree (supervised by Prof. Qijun Chen and Prof. Rui Fan) with the Machine Intelligence and Autonomous Systems (MIAS) Group in the Robotics and Artificial Intelligence Laboratory (RAIL) at Tongji University. She was one of the five recipients of the Huawei Scholarship at the university in 2018. She participated in the national project "Research and design of intelligent vehicle-mounted terminal based on Beidou RTK technology", where she devoted herself to the research of the Beidou positioning algorithm and achieved centimeter-level positioning results. She won 3 championships in the RoboCup@home China Tournament. She also won national first prize (top 2%) in the 2018 National Robotics Competition (Robotics Adventure Project) and the 2018 National Military Mathematical Modeling Competition. Her research interests include 3D spatial information acquisition/representation and semantic scene understanding.
-    # '
-
-
-- position: M.Sc. student
-  presons: 
-    - name: Yi FENG | 冯翊
-      image: /images/members/yfeng.jpg
-      position: M.Sc. student
-      email: fengyi@ieee.org
-      scholar: 
-      # twitter: needs an account
-      # orcid: needs a number
-      description: 'Yi FENG received the B.E. degree in Automation from Tongji University in 2022. He is currently pursuing his Master degree (supervised by Prof. Rui Fan) in Machine Intelligence and Autonomous Systems (MIAS) Group with the Robotics and Artificial Intelligence Laboratory (RAIL) at Tongji University. He received a first-class scholarship of Tongji University in 2019, a national scholarship in 2020, and a QiDi (principal) scholarship of Tongji University in 2021. He won the national first prize in “National University Students Intelligent Car Race Competition” in 2021 and ranked 1st among more than one hundred teams. He also won the national outstanding award of “Scientific and Creative Works Competition”, and the provincial outstanding award of “Shanghai College Students Engineering Training Competition”. He interned in Huawei Research Institute for two months. He was awarded Excellent Graduate of Shanghai in 2022. His research interests include computer vision and deep learning.
-    '
-    
-    - name: Jiahang LI | 李佳航
-      image: /images/members/jhli.jpg
-      position: M.Sc. student
-      email: lijiahang617@tongji.edu.cn
-      scholar: 
-      # twitter: needs an account
-      # orcid: needs a number
-      description: 'Jiahang LI received the B.E. degree in automation from the Taiyuan University of Technology in 2021. He is currently pursuing his Master degree, supervised by Prof. Rui Fan, with the Machine Intelligence and Autonomous Systems (MIAS) Group in the Robotics and Artificial Intelligence Laboratory (RAIL) at Tongji University. His research interests include computer vision and deep learning.
-    '
+position: M.Sc. student
+presons: 
+  - name: Yi FENG | 冯翊
+    image: /images/members/yfeng.jpg
+    position: M.Sc. student
+    email: fengyi@ieee.org
+    scholar: 
+    # twitter: needs an account
+    # orcid: needs a number
+    description: 'Yi FENG received the B.E. degree in Automation from Tongji University in 2022. He is currently pursuing his Master degree (supervised by Prof. Rui Fan) in Machine Intelligence and Autonomous Systems (MIAS) Group with the Robotics and Artificial Intelligence Laboratory (RAIL) at Tongji University. He received a first-class scholarship of Tongji University in 2019, a national scholarship in 2020, and a QiDi (principal) scholarship of Tongji University in 2021. He won the national first prize in “National University Students Intelligent Car Race Competition” in 2021 and ranked 1st among more than one hundred teams. He also won the national outstanding award of “Scientific and Creative Works Competition”, and the provincial outstanding award of “Shanghai College Students Engineering Training Competition”. He interned in Huawei Research Institute for two months. He was awarded Excellent Graduate of Shanghai in 2022. His research interests include computer vision and deep learning.
+  '
+  
+  - name: Jiahang LI | 李佳航
+    image: /images/members/jhli.jpg
+    position: M.Sc. student
+    email: lijiahang617@tongji.edu.cn
+    scholar: 
+    # twitter: needs an account
+    # orcid: needs a number
+    description: 'Jiahang LI received the B.E. degree in automation from the Taiyuan University of Technology in 2021. He is currently pursuing his Master degree, supervised by Prof. Rui Fan, with the Machine Intelligence and Autonomous Systems (MIAS) Group in the Robotics and Artificial Intelligence Laboratory (RAIL) at Tongji University. His research interests include computer vision and deep learning.
+  '
 
