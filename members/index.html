@@ -12,7 +12,6 @@ bgimage: https://ice.frostsky.com/2024/07/23/0e25a497d0176173d0b1d7c157ff731d.jp
         <h2>{{row.position}}</h2>
         {% for person in row.persons %}
         
-            <div class="row">
                 <div class="3u 12u$(small)">
                     <span class="image fit"><img src="{{person.image}}" alt=""></span>
                     <br>
@@ -30,7 +29,6 @@ bgimage: https://ice.frostsky.com/2024/07/23/0e25a497d0176173d0b1d7c157ff731d.jp
                     {{person.description | markdownify}}
                 </div>
             
-            </div>
             <hr>
         {% endfor %}
     </div>
